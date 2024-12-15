@@ -1,4 +1,4 @@
-package com.rocketseat.nlw.nearby
+package com.rocketseat.nlw.nearby.ui.theme.component.theme
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
