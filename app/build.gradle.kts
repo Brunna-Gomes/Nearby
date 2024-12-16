@@ -63,6 +63,16 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.1")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.1")
 
+    implementation("com.google.maps.android:maps-compose:2.7.2")
+    implementation("androidx.compose.foundation:foundation:1.0.0")
+    implementation("androidx.compose.runtime:runtime:1.0.0")
+    implementation("androidx.compose.ui:ui:1.0.0")
+    implementation("androidx.core:core-ktx:1.7.0")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.3.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0")
+    implementation("androidx.compose.material3:material3:1.0.0-alpha12")
+    
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
