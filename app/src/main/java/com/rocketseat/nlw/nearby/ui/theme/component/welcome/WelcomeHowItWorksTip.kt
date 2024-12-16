@@ -13,9 +13,9 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
-import com.rocketseat.nlw.nearby.ui.theme.Gray500
-import com.rocketseat.nlw.nearby.ui.theme.RedBase
-import com.rocketseat.nlw.nearby.ui.theme.Typography
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Gray500
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.RedBase
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Typography
 
 @Composable
 fun WelcomeHowItWorksTip(

@@ -15,7 +15,6 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -30,8 +29,7 @@ import com.rocketseat.nlw.nearby.data.model.mock.mockMarkets
 import com.rocketseat.nlw.nearby.ui.component.button.NearbyButton
 import com.rocketseat.nlw.nearby.ui.component.market_details.NearbyMarketDetailsCoupons
 import com.rocketseat.nlw.nearby.ui.component.market_details.NearbyMarketDetailsInfos
-import com.rocketseat.nlw.nearby.ui.component.market_details.NearbyMarketDetailsRules
-import com.rocketseat.nlw.nearby.ui.theme.Typography
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Typography
 
 @Composable
 fun MarketDetailsScreen(modifier: Modifier = Modifier, market: Market, onNavigateBack: () -> Unit) {

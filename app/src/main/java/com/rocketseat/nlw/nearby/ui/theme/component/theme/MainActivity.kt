@@ -9,7 +9,6 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.toRoute
 import com.rocketseat.nlw.nearby.data.model.Market
-import com.rocketseat.nlw.nearby.ui.theme.NearbyTheme
 import com.rocketseat.nlw.nearby.ui.theme.screen.HomeScreen
 import com.rocketseat.nlw.nearby.ui.theme.screen.MarketDetailsScreen
 import com.rocketseat.nlw.nearby.ui.theme.screen.SplashScreen

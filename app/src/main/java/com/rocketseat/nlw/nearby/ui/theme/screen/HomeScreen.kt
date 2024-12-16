@@ -24,7 +24,7 @@ import com.rocketseat.nlw.nearby.data.model.mock.mockCategories
 import com.rocketseat.nlw.nearby.data.model.mock.mockMarkets
 import com.rocketseat.nlw.nearby.ui.component.category.NearbyCategoryFilterChipList
 import com.rocketseat.nlw.nearby.ui.component.market.NearbyMarketCardList
-import com.rocketseat.nlw.nearby.ui.theme.Gray100
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Gray100
 
 
 @OptIn(ExperimentalMaterial3Api::class)

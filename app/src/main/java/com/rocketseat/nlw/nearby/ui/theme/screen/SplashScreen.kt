@@ -11,7 +11,7 @@ import androidx.compose.ui.Modifier
 import com.rocketseat.nlw.nearby.R
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
-import com.rocketseat.nlw.nearby.ui.theme.GreenLight
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.GreenLight
 import kotlinx.coroutines.delay
 
 @Composable

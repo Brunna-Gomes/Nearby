@@ -29,12 +29,12 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.rocketseat.nlw.nearby.R
 import com.rocketseat.nlw.nearby.data.model.Market
-import com.rocketseat.nlw.nearby.ui.theme.Gray100
-import com.rocketseat.nlw.nearby.ui.theme.Gray200
-import com.rocketseat.nlw.nearby.ui.theme.Gray400
-import com.rocketseat.nlw.nearby.ui.theme.Gray500
-import com.rocketseat.nlw.nearby.ui.theme.RedBase
-import com.rocketseat.nlw.nearby.ui.theme.Typography
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Gray100
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Gray200
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Gray400
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Gray500
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.RedBase
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Typography
 
 @Composable
 fun NearbyMarketCard(

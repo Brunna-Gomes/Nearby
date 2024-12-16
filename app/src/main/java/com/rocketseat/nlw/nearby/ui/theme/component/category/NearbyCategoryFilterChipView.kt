@@ -15,10 +15,10 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.rocketseat.nlw.nearby.data.model.NearbyCategory
-import com.rocketseat.nlw.nearby.ui.theme.Gray300
-import com.rocketseat.nlw.nearby.ui.theme.Gray400
-import com.rocketseat.nlw.nearby.ui.theme.GreenBase
-import com.rocketseat.nlw.nearby.ui.theme.Typography
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Gray300
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Gray400
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.GreenBase
+import com.rocketseat.nlw.nearby.ui.theme.component.theme.Typography
 
 @Composable
 fun NearbyCategoryFilterChip(
