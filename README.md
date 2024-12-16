@@ -13,6 +13,10 @@ O aplicativo desenvolvido foi o **Nearby** 📍, que, junto a uma API do Google 
 - **Jetpack Compose**: Toolkit para criar interfaces nativas do Android 🖌️
 - **Google Maps API**: Integração de mapas 🗺️
 
+## Protótipo e Design 🎨
+### Figma 📐
+https://lnkd.in/d8EZGPuK
+
 ## Funcionalidades ✨
 - Mostrar a localização do usuário em tempo real 🌍.
 - Exibir estabelecimentos parceiros próximos ao usuário 🏪.
@@ -22,10 +26,6 @@ O aplicativo desenvolvido foi o **Nearby** 📍, que, junto a uma API do Google 
 ### Pré-requisitos 📋
 - Android Studio instalado 💻
 - Emulador ou dispositivo físico Android 📱
-
-## Protótipo e Design 🎨
-### Figma 📐
-https://lnkd.in/d8EZGPuK
 
 ### Passos 📝
 1. Clone o repositório:
