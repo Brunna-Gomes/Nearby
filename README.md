@@ -31,7 +31,19 @@ https://lnkd.in/d8EZGPuK
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Brunna-Gomes/Nearby.git
-
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd Nearby
+3. Abra o projeto no Android Studio:
+   ```bash
+   android-studio .
+4. Instale as dependências:
+   ```bash
+   ./gradlew build
+5. Execute o aplicativo:
+   ```bash
+   ./gradlew installDebug
+  
 ## Contatos 📞
 Aqui estão as minhas redes sociais caso queira me conhecer um pouco mais e acompanhar a minha trajetória profissional
 - **LinkedIn**: https://www.linkedin.com/in/bruna-camilly-ads/ 🔗
