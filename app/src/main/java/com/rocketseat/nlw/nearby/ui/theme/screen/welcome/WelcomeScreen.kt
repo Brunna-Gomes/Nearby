@@ -1,4 +1,4 @@
-package com.rocketseat.nlw.nearby.ui.theme.screen
+package com.rocketseat.nlw.nearby.ui.theme.screen.welcome
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement

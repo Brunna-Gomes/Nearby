@@ -1,4 +1,4 @@
-package com.rocketseat.nlw.nearby.ui.theme.screen.route
+package com.rocketseat.nlw.nearby.ui.theme.route
 
 import kotlinx.serialization.Serializable
 
@@ -10,3 +10,6 @@ data object Welcome
 
 @Serializable
 data object Home
+
+@Serializable
+data object QRCodeScanner

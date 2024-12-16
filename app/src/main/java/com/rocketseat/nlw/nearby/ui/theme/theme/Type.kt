@@ -1,4 +1,4 @@
-package com.rocketseat.nlw.nearby.ui.theme.component.theme
+package com.rocketseat.nlw.nearby.ui.theme.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

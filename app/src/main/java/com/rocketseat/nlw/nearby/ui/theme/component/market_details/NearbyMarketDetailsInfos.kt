@@ -15,9 +15,9 @@ import androidx.compose.ui.unit.dp
 import com.rocketseat.nlw.nearby.R
 import com.rocketseat.nlw.nearby.data.model.Market
 import com.rocketseat.nlw.nearby.data.model.mock.mockMarkets
-import com.rocketseat.nlw.nearby.ui.theme.component.theme.Gray400
-import com.rocketseat.nlw.nearby.ui.theme.component.theme.Gray500
-import com.rocketseat.nlw.nearby.ui.theme.component.theme.Typography
+import com.rocketseat.nlw.nearby.ui.theme.theme.Gray400
+import com.rocketseat.nlw.nearby.ui.theme.theme.Gray500
+import com.rocketseat.nlw.nearby.ui.theme.theme.Typography
 
 @Composable
 fun NearbyMarketDetailsInfos(modifier: Modifier = Modifier, market: Market) {

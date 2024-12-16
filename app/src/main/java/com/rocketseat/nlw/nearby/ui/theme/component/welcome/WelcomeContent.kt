@@ -8,7 +8,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.rocketseat.nlw.nearby.R
-import com.rocketseat.nlw.nearby.ui.theme.component.theme.Typography
+import com.rocketseat.nlw.nearby.ui.theme.theme.Typography
 
 @Composable
 fun WelcomeContent(modifier: Modifier = Modifier) {

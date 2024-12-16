@@ -17,7 +17,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import com.rocketseat.nlw.nearby.R
-import com.rocketseat.nlw.nearby.ui.theme.component.theme.Typography
+import com.rocketseat.nlw.nearby.ui.theme.theme.Typography
 
 @Composable
 fun WelcomeHeader(modifier: Modifier = Modifier) {
